@@ -1,0 +1,25 @@
+/********************TAG SELECTOR*******************/
+body {
+  background-color: #5F6F94;
+  text-align: center;
+  margin: 0;
+}
+
+/**********************CLASS SELECTORS********/
+.content {
+  background-color: palegreen;
+  position: relative;
+  padding: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  line-height: 2;
+  text-align: justify;
+}
+
+.hiring-img {
+  width: 34%;
+}
+
+.join-us-img {
+  width: 20%;
+}
